@@ -62,6 +62,5 @@ Documentación del módulo "async"
 Contribución
 Si tienes alguna pregunta o problema, abre un "issue" en este repositorio. También puedes contribuir con mejoras o correcciones mediante una "pull request".
 
-Licencia
-Este proyecto está licenciado bajo la MIT License.
+
 
